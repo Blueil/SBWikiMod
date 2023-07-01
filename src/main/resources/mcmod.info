@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "SB Wiki Mod",
+    "description": "A mod to search the wiki for hypixel skyblock.",
     "version": "${version}",
     "mcversion": "1.8.9",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/Blueil/SBWikiMod",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Blueil"
     ],
     "credits": "",
     "logoFile": "",
